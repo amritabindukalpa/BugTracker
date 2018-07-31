@@ -1,0 +1,9 @@
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Utilities\bin\Debug\DefectTracker.Utilities.dll
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Utilities\bin\Debug\DefectTracker.Utilities.pdb
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Utilities\bin\Debug\DefectTrackerModels.Interface.dll
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Utilities\bin\Debug\DefectTrackerModels.Interface.pdb
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Utilities\obj\Debug\DefectTracker.Utilities.csprojAssemblyReference.cache
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Utilities\obj\Debug\DefectTracker.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Utilities\obj\Debug\DefectTracker.Utilities.csproj.CopyComplete
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Utilities\obj\Debug\DefectTracker.Utilities.dll
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Utilities\obj\Debug\DefectTracker.Utilities.pdb

@@ -1,0 +1,11 @@
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Models\bin\Debug\DefectTracker.Models.dll
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Models\bin\Debug\DefectTracker.Models.pdb
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Models\bin\Debug\DefectTrackerModels.Interface.dll
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Models\bin\Debug\DefectTrackerModels.Interface.pdb
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Models\obj\Debug\DefectTracker.Models.csprojAssemblyReference.cache
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Models\obj\Debug\DefectTracker.Models.csproj.CoreCompileInputs.cache
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Models\obj\Debug\DefectTracker.Models.csproj.CopyComplete
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Models\obj\Debug\DefectTracker.Models.dll
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Models\obj\Debug\DefectTracker.Models.pdb
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTracker.Models\bin\Debug\Newtonsoft.Json.xml

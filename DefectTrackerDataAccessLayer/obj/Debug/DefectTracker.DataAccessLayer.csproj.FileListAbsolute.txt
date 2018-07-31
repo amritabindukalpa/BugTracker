@@ -1,0 +1,16 @@
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerDataAccessLayer\bin\Debug\DefectTrackerDataAccessLayer.dll.config
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerDataAccessLayer\bin\Debug\DefectTrackerDataAccessLayer.dll
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerDataAccessLayer\bin\Debug\DefectTrackerDataAccessLayer.pdb
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerDataAccessLayer\bin\Debug\DefectTracker.Models.dll
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerDataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerDataAccessLayer\bin\Debug\DefectTrackerModels.Interface.dll
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerDataAccessLayer\bin\Debug\DefectTracker.Models.pdb
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerDataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerDataAccessLayer\bin\Debug\DefectTrackerModels.Interface.pdb
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerDataAccessLayer\obj\Debug\DefectTracker.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerDataAccessLayer\obj\Debug\DefectTracker.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerDataAccessLayer\obj\Debug\DefectTracker.DataAccessLayer.csproj.CopyComplete
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerDataAccessLayer\obj\Debug\DefectTrackerDataAccessLayer.dll
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerDataAccessLayer\obj\Debug\DefectTrackerDataAccessLayer.pdb

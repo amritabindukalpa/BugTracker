@@ -1,0 +1,6 @@
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerModels.Interface\bin\Debug\DefectTrackerModels.Interface.dll
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerModels.Interface\bin\Debug\DefectTrackerModels.Interface.pdb
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerModels.Interface\obj\Debug\DefectTrackerModels.Interface.csproj.CoreCompileInputs.cache
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerModels.Interface\obj\Debug\DefectTrackerModels.Interface.dll
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerModels.Interface\obj\Debug\DefectTrackerModels.Interface.pdb
+C:\Users\karthik\Documents\Visual Studio 2017\Projects\BugTracker\DefectTrackerModels.Interface\obj\Debug\DefectTrackerModels.Interface.csprojAssemblyReference.cache
